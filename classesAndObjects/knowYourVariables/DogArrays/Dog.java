@@ -13,7 +13,7 @@ class Dog{
 
     // now access the Dogs using the array reference
     myDogs[0].name = "Fred";
-    myDogs[1].name = "Marge";
+    myDogs[1].name = "Bruno";
 
     System.out.println("Last dog's name is : " + myDogs[2].name);
 
