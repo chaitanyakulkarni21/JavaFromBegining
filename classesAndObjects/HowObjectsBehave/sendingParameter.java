@@ -11,6 +11,6 @@ class Dog{
 public class sendingParameter {
   public static void main(String[] args){
     Dog d = new Dog();
-    d.bark(3);
+    d.bark(5);  // barks 5 times 
   }
 }
