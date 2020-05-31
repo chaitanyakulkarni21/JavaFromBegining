@@ -3,6 +3,10 @@ class MyName{
   int age;
   String companyName;
   String city;
+
+  void printHello(){
+    System.out.println("Hello");
+  }
 }
 public class MyNameTestDrive{
   public static void main(String[] args){
